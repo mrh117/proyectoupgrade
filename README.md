@@ -5,5 +5,4 @@ a ser constante en los propios entrenamientos.
 
 ### Extra
 - [Licencia](LICENSE)
-
 - [Documentación adicional](documentacion_adicional)
