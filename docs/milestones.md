@@ -20,5 +20,5 @@ Modelo que refleje el sistema de gestión, con clases y estructuras adecuadas pa
 - Objetivo: realizar una implementación capaz de extraer los datos de eficiencia académica de los contenedores de datos de la ugr y almacenarlos de forma estructurada
 - Entregable: código funcional que cumpla lo especificado en el objetivo de este milestone
 - Viabilidad:
-Se considera viable si los tests demuestran que el algoritmo respeta los requisitos de obtención definidos en el modelo y produce resultados consistentes en distintos escenarios de carga y disponibilidad.
+  - Se considera viable si los tests demuestran que el algoritmo respeta los requisitos de obtención definidos en el modelo y produce resultados consistentes en distintos escenarios de carga y disponibilidad.
 
