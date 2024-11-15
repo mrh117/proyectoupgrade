@@ -3,6 +3,6 @@
 El cliente tiene el siguiente problema: es un estudiante que va a ingresar en la universidad/planea a cambiarse de carrera. Sin embargo, no quiere elegir una carrera cuya dificultad sea demasiado grande con respecto a sus capacidades académicas, el tiempo que puede dedicar a sus estudios, etc. Además, le gustaría encontrar un grado con un cierto baremo de salidas laborales y retribución económica. Es por esto que necesita una aplicación que, a partir de unas métricas que evalúen sus preferencias objetivos, y características personales, le proporcione una clasificación ordenada de las titulaciones que más se adaptan a sus requisitos.
 
 ### Documentos
-- [User stories]([documentacion_adicional/explicación-ob-0.md](https://github.com/mrh117/proyectoupgrade/blob/Objetivo-1/docs/user_stories.md))
+- [User stories](https://github.com/mrh117/proyectoupgrade/blob/Objetivo-1/docs/user_stories.md)
 - [User journeys](https://github.com/mrh117/proyectoupgrade/blob/Objetivo-1/docs/user_journeys.md)
-- [Milestones]([documentacion_adicional](https://github.com/mrh117/proyectoupgrade/blob/Objetivo-1/docs/milestones.md))
+- [Milestones](https://github.com/mrh117/proyectoupgrade/blob/Objetivo-1/docs/milestones.md)
