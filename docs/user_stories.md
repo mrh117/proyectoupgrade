@@ -14,5 +14,5 @@
 - Dispositivo: ordenador
 - Pasos: 
   - Selecciona las carreras en las que puede estar interesado
-  - Introduce sus requisitos: % de graduados trabajando tras x años(buscar como son los datos disponibles)
+  - Introduce sus requisitos: % de graduados trabajando tras 1 año
   - El sistema obtiene los datos, los procesa, y devuelve una lista ordenada de las carreras que mejor se adecúan a sus requisitos
