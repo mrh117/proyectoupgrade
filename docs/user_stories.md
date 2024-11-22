@@ -1,18 +1,6 @@
 ## Historias de usuario
-### [HU1]
-- Contexto: un estudiante quiere una recomendación con respecto a carreras universitarias que se adecúen en dificultad a sus capacidades académicas
-- Frecuencia: varias veces durante el proceso previo a la decisión de la selección de la carrera, con la posibilidad de que se usen diferentes parámetros
-- Dispositivo: ordenador
-- Pasos: 
-  - Selecciona las carreras en las que puede estar interesado
-  - Introduce sus datos académicos: nota selectividad, rama académica, capacidad de estudio, tiempo disponible para el estudio, etc
-  - El sistema obtiene los datos, los procesa, y devuelve una lista ordenada de las carreras que mejor se adecúan a sus características
+## [HU1]
+Un estudiante de 2º de bachillerato va a terminar la enseñanza secundaria. Quiere hacer una carrera en la ugr pero no sabe cuál escoger. No quiere entrar en una carrera cuya dificultad sea superior a sus capacidades como estudiante, pero no sabe dónde encontrar información que le ayude a decidir, ni una métrica para evaluar dicha dificultad
 
-### [HU2]
-- Contexto: un estudiante quiere una recomendación con respecto a carreras universitarias que cumplan sus expectativas en cuanto al mercado laboral
-- Frecuencia: varias veces durante el proceso previo a la decisión de la selección de la carrera, con la posibilidad de que se usen diferentes parámetros
-- Dispositivo: ordenador
-- Pasos: 
-  - Selecciona las carreras en las que puede estar interesado
-  - Introduce sus requisitos: % de graduados trabajando tras 1 año
-  - El sistema obtiene los datos, los procesa, y devuelve una lista ordenada de las carreras que mejor se adecúan a sus requisitos
+## [HU2]
+Un estudiante de formación profesional va a terminar ese ciclo de estudios. Quiere hacer una carrera en la ugr pero no sabe cuál elegir. Quiere que la carrera que haga le ofrezca unas garantías en cuanto al mercado laboral, ya sea económicas o de facilidad para encontrar trabajo, pero no sabe dónde encontrar información que le ayude a filtrar las carreras que no cumplen sus requisitos
