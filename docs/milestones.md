@@ -6,6 +6,6 @@
   - Se considera viable cuando el modelo realizado represente de manera clara el dominio del problema que se describe en las HU 1 y 2.
 
 ### [M1] Implementación de la métrica
-- Módulo de código capaz de aplicar la métrica del procesado de datos de la forma en la que se recoge en la HU1.
+- Módulo de código capaz de resolver los requisitos que se derivan de las HU 1 y 2.
 - Viabilidad:
-  - Se considera viable si resuelve el problema descrito en la HU1
+  - Se considera viable si resuelven los problemas descritos en las HU 1 y 2
