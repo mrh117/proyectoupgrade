@@ -1,5 +1,5 @@
 ## [UJ1]
-- Contexto: un estudiante quiere una recomendación con respecto a carreras universitarias que se adecúen en dificultad a sus capacidades académicas
+- Contexto: un estudiante quiere una recomendación con respecto a carreras universitarias que se adecúen en dificultad a sus capacidades académicas y a sus requisitos sobre oportunidades en el mercado laboral
 - Frecuencia: varias veces durante el proceso previo a la decisión de la selección de la carrera, con la posibilidad de que se usen diferentes parámetros
 - Dispositivo: ordenador
 - Pasos: 
